@@ -1,0 +1,34 @@
+Prompt: 1 
+Vamos programa em par.
+Linguagem de programação Python.
+IDE: JupyterNotebook.
+DataSet: titanic.csvme responda se entedeu?  
+
+Prompt: 2
+Gere o código para carregar o data set em pandas.  
+
+Prompt:3
+As colunas do data set são: [PassengerId,	Survived,	Pclass,	Name,	Sex,	Age,	SibSp,	Parch,	Ticket,	Fare,	Cabin,	Embarked]
+Remova as colunas [Name,Cabin, Ticket] 
+
+Prompt:4
+Gerar novos valores para as variaveis categiricas 
+
+Prompt:5
+Plot os outileyers 
+
+Prompt:6
+Remova os valores outliers  
+
+Prompt:7
+remova os valores missing do data set
+
+Prompt:8
+Gere uma predição em que passado as colunas: Sex,	Age,Fare. 
+Informe o Survived.
+
+Prompt:9
+gere uma massa de teste para modelo proposto
+
+Prompt: 10 
+Gere um grafico de barras para analisarmos os valores da coluna Fare 
